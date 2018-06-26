@@ -1,0 +1,66 @@
+
+html { 
+    background: url("../images/encom.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+#blanks {
+height: 100px;
+}
+
+#graveyard {
+height: 100px;
+}
+
+h1 {
+    align-items: center;
+    padding: 20px 0px 20px 0px;
+    margin: auto;
+    top: 50px;
+    color: white;
+}
+
+#play{
+    padding: 15px 30px 15px 30px;
+    font-weight: bolder;
+
+}
+
+body {
+    max-width: 600px;
+    margin: auto;
+}
+
+#clue {
+    padding: 20px 0px 20px 0px;
+    color: white;
+    font-weight: bolder;
+}
+
+#blanks {
+    padding: 20px 0px 20px 0px;
+    color: white;
+
+}
+
+#graveyard {
+    padding: 20px 0px 20px 0px;
+    color: white;
+    font-weight: bolder;
+
+}
+
+#wins {
+    padding: 20px 0px 20px 0px;  
+    color: white;
+
+}
+#losses {
+    padding: 20px 0px 20px 0px;  
+    color: white;
+
+}
+
