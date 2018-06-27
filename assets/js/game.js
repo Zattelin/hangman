@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // type letter for guess
         document.onkeyup = function (event) {
             var guess = event.key;
-            ßguess = guess.toLowerCase()
+            guess = guess.toLowerCase()
             makeGuess(guess);
             console.log(guess.toLowerCase())
         };
